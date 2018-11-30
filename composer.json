@@ -12,11 +12,11 @@
     "consolidation/output-formatters": "^3.2",
     "consolidation/robo": "^1.1.0",
     "guzzlehttp/guzzle": "^6.2",
-    "psy/psysh": "^0.8",
-    "symfony/console": "*",
-    "symfony/finder": "*",
-    "symfony/process": "*",
-    "symfony/yaml": "*"
+    "psy/psysh": "^0.9",
+    "symfony/console": "4.1.*",
+    "symfony/finder": "4.1.*",
+    "symfony/process": "4.1.*",
+    "symfony/yaml": "4.1.*"
   },
   "autoload": {
     "psr-4": {
